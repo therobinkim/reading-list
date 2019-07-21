@@ -18,3 +18,6 @@
 > We saw these challenges first-hand at Basecamp as we grew from four people to over fifty. Through years of trial and error — and some contrarian thinking — we solved these problems. For over fifteen years we’ve consistently shipped new software at a high-level of quality while maintaining a sense of calm and order.
 >
 > Recently more and more friends and peers have asked us how we do it. This book is a comprehensive answer.
+
+* [Atomic Design](http://atomicdesign.bradfrost.com/) by Brad Frost
+> _Atomic Design_ details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
