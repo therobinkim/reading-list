@@ -1,7 +1,6 @@
 # Done
 
-* [CSS Grid Is Not a Replacement for Flexbox
-](https://www.robertcooper.me/grid-does-not-replace-flexbox) from [Reddit](https://www.reddit.com/r/webdev/comments/cd9fhg/css_grid_is_not_a_replacement_for_flexbox_quick/): they're great complements and not necessarily replacements
+* [CSS Grid Is Not a Replacement for Flexbox](https://www.robertcooper.me/grid-does-not-replace-flexbox) from [Reddit](https://www.reddit.com/r/webdev/comments/cd9fhg/css_grid_is_not_a_replacement_for_flexbox_quick/): they're great complements and not necessarily replacements
 
 # Maybe in the Future
 
@@ -22,6 +21,6 @@
 * [Atomic Design](http://atomicdesign.bradfrost.com/) by Brad Frost
 > _Atomic Design_ details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
 
-* [Refactoring: Improving the Design of Existing Code] by Martin Fowler
+* [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) by Martin Fowler
 > This book describes the process of refactoring and spends most of its time explaining how to do the various refactorings - the behavior preserving transformations. The book opens with a simple example that describes the whole process. There are then some introductory chapters that discuss broader issues around refactoring, the “code smells” that suggest refactoring, and the role of testing.
 > The bulk of the book is around seventy refactorings described in detail: the motivation for doing them, mechanics of how to do them safely and a simple example.
