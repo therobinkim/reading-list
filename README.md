@@ -9,6 +9,7 @@
 > You want to get to a state where whatever the engineers on your team do, the most straightforward way is also the right way-so that they don't get off the path, so that they naturally do the right thing.
 >
 > Otherwise add a test that ensure the right way,
+* [Wait But Why] [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html): be aware of the fog (as regularly as possible) and look for more opportunities for those tiny escapes from the fog
 
 # Maybe in the Future
 
