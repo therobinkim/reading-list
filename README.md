@@ -14,6 +14,8 @@
 
 * [Wait But Why] [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html): be aware of the fog (as regularly as possible) and look for more opportunities for those tiny escapes from the fog
 
+* [Wait But Why] [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html): pass the "Traffic Test," feel "at home," communicate, maintain equity, fight well
+
 * [Manhattan Institute] [The Future of Income-Share Agreements: Policy and Politics](https://www.manhattan-institute.org/future-income-share-agreements-to-finance-higher-education) by Sheila Bair and Preston Cooper
 
 # Maybe in the Future
