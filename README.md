@@ -44,3 +44,6 @@
 * [Advanced Software Design with Jimmy Koppel](https://corecursive.com/036-jimmy-koppel-advanced-software-design/) 53 min audio
 
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan
+> Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
