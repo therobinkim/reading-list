@@ -45,5 +45,5 @@
 
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
-* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan
+* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
 > Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
