@@ -18,6 +18,9 @@
 
 * [Manhattan Institute] [The Future of Income-Share Agreements: Policy and Politics](https://www.manhattan-institute.org/future-income-share-agreements-to-finance-higher-education) by Sheila Bair and Preston Cooper
 
+* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
+> Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+
 # Maybe in the Future
 
 * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
@@ -44,6 +47,3 @@
 * [Advanced Software Design with Jimmy Koppel](https://corecursive.com/036-jimmy-koppel-advanced-software-design/) 53 min audio
 
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
-* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
-> Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
