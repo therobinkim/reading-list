@@ -21,6 +21,12 @@
 * [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
 > Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
 
+* [A Meditation on Lovingkindness](https://jackkornfield.com/meditation-lovingkindness/)
+> May I be filled with lovingkindness.
+> May I be safe from inner and outer dangers.
+> May I be well in body and mind.
+> May I be at ease and happy.
+
 # Maybe in the Future
 
 * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
