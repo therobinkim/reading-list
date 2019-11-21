@@ -27,6 +27,9 @@
 > May I be well in body and mind.
 > May I be at ease and happy.
 
+* [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
+
+
 # Maybe in the Future
 
 * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
