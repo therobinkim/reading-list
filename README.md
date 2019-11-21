@@ -1,9 +1,24 @@
 # Done
 
-* [CSS Grid Is Not a Replacement for Flexbox](https://www.robertcooper.me/grid-does-not-replace-flexbox) from [Reddit](https://www.reddit.com/r/webdev/comments/cd9fhg/css_grid_is_not_a_replacement_for_flexbox_quick/): they're great complements and not necessarily replacements
+* [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
 
-* [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c): commit to being MUCH more vulnerable
-> Don't talk about any topic that you could discuss in the open
+* [A Meditation on Lovingkindness](https://jackkornfield.com/meditation-lovingkindness/)
+> May I be filled with lovingkindness.
+>
+> May I be safe from inner and outer dangers.
+>
+> May I be well in body and mind.
+>
+> May I be at ease and happy.
+
+* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
+> Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+
+* [Manhattan Institute] [The Future of Income-Share Agreements: Policy and Politics](https://www.manhattan-institute.org/future-income-share-agreements-to-finance-higher-education) by Sheila Bair and Preston Cooper
+
+* [Wait But Why] [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html): pass the "Traffic Test," feel "at home," communicate, maintain equity, fight well
+
+* [Wait But Why] [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html): be aware of the fog (as regularly as possible) and look for more opportunities for those tiny escapes from the fog
 
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3): understand how the decisions you're making will impact how others will make their decisions
 > "I know how I would solve the problem" => "I know how others would solve the problem" => "I can anticipate how the API choices that I'm making, or the abstractions that I'm introducing into a project, how they impact how other people would solve a problem."
@@ -12,23 +27,10 @@
 >
 > Otherwise add a test that ensure the right way,
 
-* [Wait But Why] [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html): be aware of the fog (as regularly as possible) and look for more opportunities for those tiny escapes from the fog
+* [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c): commit to being MUCH more vulnerable
+> Don't talk about any topic that you could discuss in the open
 
-* [Wait But Why] [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html): pass the "Traffic Test," feel "at home," communicate, maintain equity, fight well
-
-* [Manhattan Institute] [The Future of Income-Share Agreements: Policy and Politics](https://www.manhattan-institute.org/future-income-share-agreements-to-finance-higher-education) by Sheila Bair and Preston Cooper
-
-* [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger & Adam Wathan; some Twitter highlights [here](https://twitter.com/i/moments/994601867987619840)
-> Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
-
-* [A Meditation on Lovingkindness](https://jackkornfield.com/meditation-lovingkindness/)
-> May I be filled with lovingkindness.
-> May I be safe from inner and outer dangers.
-> May I be well in body and mind.
-> May I be at ease and happy.
-
-* [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
-
+* [CSS Grid Is Not a Replacement for Flexbox](https://www.robertcooper.me/grid-does-not-replace-flexbox) from [Reddit](https://www.reddit.com/r/webdev/comments/cd9fhg/css_grid_is_not_a_replacement_for_flexbox_quick/): they're great complements and not necessarily replacements
 
 # Maybe in the Future
 
