@@ -2,6 +2,8 @@
 
 * [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
 
+* Netlify's [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/): GoTrue with JWT helps preventing need for each service to manage its own user database; using Git to store info like article contents and user comments, then publishing those changes to a CDN via a static site generator can help eliminate an entire categories of queries from being sent to your database
+
 * [A Meditation on Lovingkindness](https://jackkornfield.com/meditation-lovingkindness/)
 > May I be filled with lovingkindness.
 >
