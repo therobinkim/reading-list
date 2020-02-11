@@ -1,5 +1,7 @@
 # Done
 
+* Bret Victor's [Inventing on Principle](https://vimeo.com/36579366) from CUSEC 2012
+
 * [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
 
 * Netlify's [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/): GoTrue with JWT helps preventing need for each service to manage its own user database; using Git to store info like article contents and user comments, then publishing those changes to a CDN via a static site generator can help eliminate an entire categories of queries from being sent to your database
