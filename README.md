@@ -1,5 +1,13 @@
 # Done
 
+* [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
+> 1. Favor embedding unless there's a compelling reason not to.
+> 2. If you need to access an object on its own, don't embed it.
+> 3. Consider one-to-few vs one-to-many vs one-to-squillions. Don't embed if you have high-cardinality arrays.
+> 4. Don't be afraid of application-level joins; if you index correctly and use the projection specifier, it'll be fine.
+> 5. Only denormalize when the read-to-write ratio is high. Don't denormalize infrequently read, but often updated data.
+> 6. Structure your data to match the ways your application queries and updates it.
+
 * Bret Victor's [Inventing on Principle](https://vimeo.com/36579366) from CUSEC 2012
 
 * [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance): new info -- threads (Java) vs processes/clustering (Node.js); already knew -- coordinating threads is difficult
