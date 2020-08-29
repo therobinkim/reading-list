@@ -74,3 +74,5 @@
 * [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/)
 
 * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+
+* [web.dev](https://web.dev/)
