@@ -76,3 +76,5 @@
 * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 
 * [web.dev](https://web.dev/)
+
+* [Scaling React Server-Side Rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html)
