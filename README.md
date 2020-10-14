@@ -1,5 +1,7 @@
 # Done
 
+* (HBR) [Working from Home While Black](https://hbr.org/2020/06/working-from-home-while-black)
+
 * [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 > 1. Favor embedding unless there's a compelling reason not to.
 > 2. If you need to access an object on its own, don't embed it.
