@@ -1,4 +1,19 @@
-# Done
+## In Progress
+
+* Effective Engineer
+
+* Mostly Adequate Guide to Functional Programming
+
+* Awareness by Anthony de Mello
+
+## Done
+
+* Managing Oneself
+
+* The Joel Test: 12 Steps to Better Code
+
+* [Stop just using “Frontend” or “Backend” to describe the Engineering you like](https://blog.usejournal.com/stop-just-using-frontend-or-backend-to-describe-the-engineering-you-like-e8c392956ada)
+> Try `product` vs `infrastructure` instead!
 
 * (HBR) [Working from Home While Black](https://hbr.org/2020/06/working-from-home-while-black)
 
@@ -46,7 +61,7 @@
 
 * [CSS Grid Is Not a Replacement for Flexbox](https://www.robertcooper.me/grid-does-not-replace-flexbox) from [Reddit](https://www.reddit.com/r/webdev/comments/cd9fhg/css_grid_is_not_a_replacement_for_flexbox_quick/): they're great complements and not necessarily replacements
 
-# Maybe in the Future
+## Maybe in the Future
 
 * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
 > This book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can apply in your own way to your own process.
@@ -80,3 +95,9 @@
 * [web.dev](https://web.dev/)
 
 * [Scaling React Server-Side Rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html)
+
+* Give and Take by Adam Grant
+
+* Clean Code
+
+* Pragmatic Programmer
