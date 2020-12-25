@@ -8,6 +8,8 @@
 
 ## Done
 
+* [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) (reactjs.org)
+
 * Managing Oneself
 
 * The Joel Test: 12 Steps to Better Code
