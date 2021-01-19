@@ -8,6 +8,54 @@
 
 ## Done
 
+* [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
+
+* [Do Things That Don't Scale](http://paulgraham.com/ds.html)
+
+* [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+> prefer duplication over the wrong abstraction
+
+* Kent C Dodd's [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control)
+
+* [10 Answers to Common Questions People Ask When Being Called Out for Using Ableist Language](https://thebodyisnotanapology.com/magazine/on-ableist-language/)
+> Q: Aren’t you just a member of the PC police trying to take away my First Amendment rights?
+> A: No. The First Amendment protects you from government interference in free speech. It does not protect you from criticism about the words you use.
+
+* HBR's [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
+> What it takes to get the job isn't what it takes to do the job well
+
+* HBR's [Women and Minorities Are Penalized for Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
+
+* [Getting hired as a remote frontend developer in 2019](https://staleclosures.dev/getting-hired-as-remote-frontend-developer/) (4/2019)
+> * Use side projects as a way to stick out
+> * Twitter: a technical notebook to express thoughts about things learned and built
+> * Record conference-like talks and post them online
+
+* [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md) (6/2019)
+
+* The Atlantic's [Why Is Silicon Valley So Awful to Women?](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/) (4/2017)
+
+* Art of Manliness's [Men Without Chests](https://www.artofmanliness.com/articles/men-without-chests/) (5/2018)
+
+* Vue's [Comparison with Other Frameworks](https://vuejs.org/v2/guide/comparison) (12/2016)
+
+* ThinkProgress's [A Creative Idea That Might Actually Help Close Tech’s Gender Gap: Librarians](https://archive.thinkprogress.org/a-creative-idea-that-might-actually-help-close-techs-gender-gap-librarians-cc37936e06e9/) (4/2016)
+
+* Model View Culture's [Are You More Than Okay: The State of Mental Health in Tech in 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) (12/2016)
+
+* NPR Ed's [Hey, Students: 5 Things That Are Wrong With Your Cover Letter](https://www.npr.org/sections/ed/2017/02/27/502445571/hey-students-5-things-that-are-wrong-with-your-cover-letter) (2/2017)
+> Do tell us a story; don't bury the lede; don't say what YOU'LL get out of the position; aim at the right target; get somebody to proofread
+
+* Mozilla's [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) (3/2018)
+
+* Walmart's [The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8) (4/2017)
+
+* React Blog's [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html) (6/2018)
+
+* The Atlantic's [The Original Underclass](https://www.theatlantic.com/magazine/archive/2016/09/the-original-underclass/492731/) (9/2016): Poor white Americans' current crisis shouldn't have caught the rest of the country as off guard as it has
+
+* (HBR) [The One Number You Need To Grow](https://hbr.org/2003/12/the-one-number-you-need-to-grow) -- NPS!
+
 * [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) (reactjs.org)
 
 * Managing Oneself
@@ -103,3 +151,7 @@
 * Clean Code
 
 * Pragmatic Programmer
+
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+
