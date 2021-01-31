@@ -8,6 +8,11 @@
 
 ## Done
 
+* [Metaphysics & JavaScript](https://docs.google.com/presentation/d/1PUvpXMBEDS45rd0wHu6tF3j_8wmGC6cOLtOw2hzU-mw/edit#slide=id.p)
+> * Many people like to think that UI can be derived deterministically from state, when this is simply not true.
+> * React's attempts to become more ***pure*** (eg, classes -> hooks) makes it become further out of touch from reality.
+> * Svelte!
+
 * [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html)
